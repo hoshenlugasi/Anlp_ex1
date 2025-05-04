@@ -1,0 +1,8 @@
+transformers>=4.30.0
+datasets>=2.12.0
+accelerate>=0.26.0
+scikit-learn
+numpy
+matplotlib
+wandb
+torch
